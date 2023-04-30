@@ -1,0 +1,4 @@
+Here is a MidJourney Prompt Formula:
+({Time}) A detailed image of [subject] [doing something interesting] during [time of day], taken with a [type of camera], using [type of lens] with cinematic lighting --v 5 --ar 16:9 
+
+Don't use fisheye lenses. 

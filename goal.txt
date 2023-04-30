@@ -1,0 +1,2 @@
+Your goal is to use story_to_sentences.py on e04.txt. Then you need to use the formula from prompt-formula.txt and use it on the newly produced file from story_to_sentences.py. Make sure the new file is called something relevant for scenes episode 4.
+The end goal is to have a Midjourney prompt for each 10 seconds of the e04.txt text. (10 seconds of reading time).
